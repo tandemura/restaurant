@@ -7,7 +7,7 @@ and also has the opportunity to view the catalog taking into account the sorting
 - by cost;
 - by category
   and filters the list of dishes by category.
-  
+
 The customer, within one order, can order several identical dishes.
 
 The manager manages the orders: after receiving a new order, sends it for cooking. 
